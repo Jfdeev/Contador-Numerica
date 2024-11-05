@@ -44,6 +44,3 @@ Abra o arquivo `index.html` em seu navegador preferido. O contador estará pront
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-
-Este formato de README oferece uma explicação geral do projeto sem incluir o código em si. Ele cobre o que o projeto faz, como utilizá-lo e as instruções de contribuição. Se precisar de mais alguma coisa, estou à disposição!
